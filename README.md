@@ -54,6 +54,3 @@ This project was created as a simple example of a Go web application for learnin
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-```
-
-Make sure to replace the placeholder URLs, usernames, and other details with your specific information. The badge for the MIT license is included at the end of the README.
